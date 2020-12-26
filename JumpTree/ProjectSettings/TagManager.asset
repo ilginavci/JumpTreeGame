@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - tree
+  - sensor
+  - tree2
+  - tree3
+  - trash
   layers:
   - Default
   - TransparentFX
